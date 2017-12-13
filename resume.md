@@ -48,7 +48,7 @@ regional locations.
 * Full stack development using Node.js, Express, React, and MongoDB.
 
 ## Web Developer
-### Plasmid Inc (Denver), Nov/2013 - Jan/2015
+### Plasmid Inc (Denver), Nov 2013 - Jan 2015
 
 Coached and led a 13-store district with 150 employees. Educated customers on 
 products and provided customized solutions for increased sales. Drove growth by 

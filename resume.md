@@ -1,3 +1,7 @@
+---
+title: 'Resume: Johnny Coder'
+---
+
 :::: section-1 ::::
 
 # Johnny Coder
